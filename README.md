@@ -17,3 +17,4 @@ the -v option.
 
 Change this: open(MAIL, "|/usr/lib/sendmail -v -t");
 to this: open(MAIL, "|/usr/lib/sendmail -t");
+First push of this sequence: Wed Dec  1 20:47:01 EST 2021
